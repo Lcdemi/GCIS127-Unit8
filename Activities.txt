@@ -1,0 +1,9 @@
+First-in First-out: Queue
+Key/Value Pairs: Maps (Dictionary in Python)
+Last-in First-out: Stack
+Stores Unique Elements: Set
+A Variable Length Data Structure: List
+
+1 (head and old tail) --> 15 (new tail) --> null
+2 (head) --> 3 (old tail) --> 15 (new tail) --> null
+5 (head) --> 7 --> 11 --> 13 (old tail) --> 15 (new tail) --> null
